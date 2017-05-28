@@ -1,2 +1,0 @@
-# VitalSight
-Computer Vision Applications
